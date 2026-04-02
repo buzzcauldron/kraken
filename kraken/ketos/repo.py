@@ -18,6 +18,8 @@ kraken.ketos.repo
 
 Command line driver for publishing models to the model repository.
 """
+from __future__ import annotations
+
 import re
 import logging
 
